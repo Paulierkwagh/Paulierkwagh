@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paulierkwagh
-- 👀 I’m interested in frontend engineering
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cloud computing
+- 🌱 I’m currently learning Azure cloud computing
+- 💞️ I’m looking to collaborate on an cloud computing projects
 - 📫 How to reach me terzee54@gmail.com
 
 <!---
